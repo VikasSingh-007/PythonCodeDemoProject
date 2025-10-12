@@ -1,0 +1,20 @@
+[
+    {
+        "product_Id": "P1",
+        "product": [
+            "name : cola",
+            "price : 5",
+            "stock : 2",
+            "category : cold"
+        ]
+    },
+    {
+        "product_Id": "P2",
+        "product": [
+            "name : pepsi",
+            "price : 50",
+            "stock : 60",
+            "category : cold"
+        ]
+    }
+]
